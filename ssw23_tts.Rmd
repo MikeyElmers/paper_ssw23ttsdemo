@@ -1,0 +1,41 @@
+---
+title: "Synthesis after a couple PINTs: Investigating the Role of Pause-Internal Phonetic Particles in Speech Synthesis and Perception"
+author: "Mikey Elmers and Éva Székely"
+date: "Speech Synthesis Workshop 2023"
+output:
+  html_document:
+    output_file: 'docs/my.html'
+---
+# Introduction
+
+This repository contains the supplementary material for the conference paper titled "The impact of pause-internal phonetic particles on recall in synthesized lectures".
+
+# TTS Comparison
+This experiment compared passages in a natural (left) and synthetic (right) condition.
+
+## Passage 3
+
+<audio controls style="float: left; width: 48.75%; margin-right: 2.5px; margin-bottom: 50px;"> <source src="audio/ttscomp/NAT03.wav" type="audio/wav"> </audio>
+
+<audio controls style="float: left; width: 48.75%; margin-bottom: 50px;"> <source src="audio/ttscomp/SYNTH03.wav" type="audio/wav"> </audio>
+
+<br>
+
+## Passage 4
+
+<audio controls style="float: left; width: 48.75%; margin-right: 2.5px; margin-bottom: 50px;"> <source src="audio/ttscomp/NAT04.wav" type="audio/wav"> </audio>
+
+<audio controls style="float: left; width: 48.75%; margin-bottom: 50px;"> <source src="audio/ttscomp/SYNTH04.wav" type="audio/wav"> </audio>
+
+# Perceptual Experiment
+This experiment evaluated synthetic passages in 3 different conditions: base (left), no PINTs (middle), and silence (right).
+
+## Passage 1
+
+<audio controls style="float: left; width: 32.5%; margin-right: 2.5px; margin-bottom: 50px;"> <source src="audio/percexp/01synthbase.wav" type="audio/wav"> </audio>
+
+<audio controls style="float: left; width: 32.5%; margin-right: 2.5px; margin-bottom: 50px;"> <source src="audio/percexp/01synthnopints.wav" type="audio/wav"> </audio>
+
+<audio controls style="float: left; width: 32.5%; margin-bottom: 50px;"> <source src="audio/percexp/01synthsil.wav" type="audio/wav"> </audio>
+
+<br>
