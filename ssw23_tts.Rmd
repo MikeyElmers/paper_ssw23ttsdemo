@@ -1,5 +1,5 @@
 ---
-title: "Synthesis after a couple PINTs: Investigating the Role of Pause-Internal Phonetic Particles in Speech Synthesis and Perception"
+title: "The impact of pause-internal phonetic particles on recall in synthesized lectures"
 author: "Mikey Elmers and Éva Székely"
 date: "Speech Synthesis Workshop 2023"
 output:
